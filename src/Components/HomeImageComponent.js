@@ -25,7 +25,7 @@ const HomeImageComponent = () => {
         <div className="w-full flex justify-evenly">
           <button className="bg-red-600  p-2 text-sm sm:text-xl text-white border-blue-700 border-[1px] rounded-md">
             <a
-              href="tel:+919376641885"
+              href="tel:+919341801186"
               className="text-white h-full w-full flex justify-center items-center gap-2"
             >
               <IoCall /> BOOK NOW
@@ -33,7 +33,7 @@ const HomeImageComponent = () => {
           </button>
           <button className="bg-green-600  p-2 text-sm sm:text-xl text-white border-blue-700 border-[1px] rounded-md">
             <a
-              href="http://wa.me/+919376641885"
+              href="http://wa.me/+919341801186"
               className="text-white h-full w-full flex justify-center items-center gap-2"
             >
               <IoCall /> ROOM BOOKING
