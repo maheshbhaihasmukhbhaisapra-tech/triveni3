@@ -23,7 +23,7 @@ const GalleryComponent = () => {
             </p>
             <button className="bg-red-600  p-1 text-md sm:text-lg text-white border-blue-700 border-[1px] rounded-md">
               <a
-                href="http://wa.me/+919376641885"
+                href="http://wa.me/+919341801186"
                 className="text-white h-full w-full flex justify-center items-center gapy-2"
               >
                 BOOK NOW
@@ -43,7 +43,7 @@ const GalleryComponent = () => {
             </p>
             <button className="bg-red-600  p-1 text-md sm:text-lg text-white border-blue-700 border-[1px] rounded-md">
               <a
-                href="http://wa.me/+919376641885"
+                href="http://wa.me/+919341801186"
                 className="text-white h-full w-full flex justify-center items-center gap-2"
               >
                 BOOK NOW
@@ -63,7 +63,7 @@ const GalleryComponent = () => {
             </p>
             <button className="bg-red-600  p-1 text-md sm:text-lg text-white border-blue-700 border-[1px] rounded-md">
               <a
-                href="http://wa.me/+919376641885"
+                href="http://wa.me/+919341801186"
                 className="text-white h-full w-full flex justify-center items-center gap-2"
               >
                 BOOK NOW
@@ -83,7 +83,7 @@ const GalleryComponent = () => {
             </p>
             <button className="bg-red-600  p-1 text-md sm:text-lg text-white border-blue-700 border-[1px] rounded-md">
               <a
-                href="http://wa.me/+919376641885"
+                href="http://wa.me/+919341801186"
                 className="text-white h-full w-full flex justify-center items-center gap-2"
               >
                 BOOK NOW
@@ -103,7 +103,7 @@ const GalleryComponent = () => {
             </p>
             <button className="bg-red-600  p-1 text-md sm:text-lg text-white border-blue-700 border-[1px] rounded-md">
               <a
-                href="http://wa.me/+919376641885"
+                href="http://wa.me/+919341801186"
                 className="text-white h-full w-full flex justify-center items-center gap-2"
               >
                 BOOK NOW
@@ -123,7 +123,7 @@ const GalleryComponent = () => {
             </p>
             <button className="bg-red-600  p-1 text-md sm:text-lg text-white border-blue-700 border-[1px] rounded-md">
               <a
-                href="http://wa.me/+919376641885"
+                href="http://wa.me/+919341801186"
                 className="text-white h-full w-full flex justify-center items-center gap-2"
               >
                 BOOK NOW
