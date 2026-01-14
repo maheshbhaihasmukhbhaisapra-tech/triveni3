@@ -23,10 +23,10 @@ const App = () => {
       <BirlaDharamshala />
       <Footer />
       <div className="fixed flex  items-center  justify-between p-4 w-full bottom-[10px] sm:bottom-0 left-0 ">
-      <a href="http://wa.me/+919376641885">
+      <a href="http://wa.me/+919341801186">
           <IoLogoWhatsapp className="text-5xl text-[#08c241] " />
         </a>
-        <a href="http://wa.me/+919376641885">
+        <a href="http://wa.me/+919341801186">
           <IoLogoWhatsapp className="text-5xl text-[#08c241] " />
         </a>
       </div>
