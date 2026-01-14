@@ -51,7 +51,7 @@ export default function BirlaDharamshala() {
             Uttar Pradesh 211003
           </h5>
           <h5>
-            <strong>Mobile No. :- </strong>+919376641885
+            <strong>Mobile No. :- </strong>+919341801186
           </h5>
           <h5>
             <strong>Email Id :-</strong>rakeshagrawal0333@gmail.com
@@ -59,7 +59,7 @@ export default function BirlaDharamshala() {
           <div className=" flex justify-evenly gap-4">
             <button className="bg-red-600  p-2 text-sm sm:text-xl text-white border-blue-700 border-[1px] rounded-md">
               <a
-                href="tel:+919376641885"
+                href="tel:+919341801186"
                 className="text-white h-full w-full flex justify-center items-center gap-2"
               >
                 <IoCall /> BOOK NOW
@@ -67,7 +67,7 @@ export default function BirlaDharamshala() {
             </button>
             <button className="bg-green-600  p-2 text-sm sm:text-xl text-white border-blue-700 border-[1px] rounded-md">
               <a
-                href="http://wa.me/+919376641885"
+                href="http://wa.me/+919341801186"
                 className="text-white h-full w-full flex justify-center items-center gap-2"
               >
                 <IoCall /> ROOM BOOKING
